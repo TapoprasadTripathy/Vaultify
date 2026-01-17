@@ -171,7 +171,7 @@ export function Trust() {
               <div className="px-6 py-3 bg-white border border-gray-200 rounded-xl shadow-sm">
                 <div className="flex items-center gap-2 text-gray-700">
                   <CheckCircle2 className="w-5 h-5 text-purple-600" />
-                  <span>SOC 2 Certified</span>
+                  <span>SOC 2 Certification in progress</span>
                 </div>
               </div>
             </div>
